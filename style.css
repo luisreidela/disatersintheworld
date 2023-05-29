@@ -8,7 +8,6 @@
     
 }
 
-
 .button-bar {
     margin: 10;
     padding: 10;
@@ -56,7 +55,7 @@
     z-index: 1;
   }
   
-  .dropdown-content a {
+  .dropdown-content {
     display: block;
     padding: 10px;
     text-decoration: none;
